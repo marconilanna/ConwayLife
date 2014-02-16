@@ -1,0 +1,6 @@
+# R pentomino: stable after 1103 generations.
+200 200
+100 100
+.**
+**
+.*

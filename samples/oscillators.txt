@@ -1,0 +1,24 @@
+# Oscillator patterns
+6 19
+1 0
+# blinker
+
+
+***
+
+
+
+# toad
+
+
+.***
+***
+
+
+
+# beacon
+
+**
+**
+..**
+..**

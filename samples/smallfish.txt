@@ -1,0 +1,7 @@
+# Small fish: a spaceship that travels orthogonally at c/2 with period 4.
+100 7
+1 1
+.**
+****
+**.**
+..**

@@ -1,0 +1,6 @@
+# Die hard: vanishes after 130 generations.
+1000 1000
+500 500
+......*
+**
+.*...***

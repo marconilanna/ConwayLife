@@ -1,0 +1,6 @@
+# Acorn: stable after 5206 generations.
+1000 1000
+500 500
+.*
+...*
+**..***

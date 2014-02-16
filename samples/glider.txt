@@ -1,0 +1,6 @@
+# Glider: the smallest spaceship, travels diagonally at a speed of c/4.
+50 50
+1 1
+.*
+..*
+***
